@@ -11,7 +11,7 @@ public class DemoApplication {
 	}
 
 	public String methodName(){
-		return "okay";
+		return "okay again";
 	}
 
 }
